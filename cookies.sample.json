@@ -1,0 +1,30 @@
+[
+  {
+    "name": "signed_in",
+    "value": "true",
+    "domain": "courses.example.com",
+    "path": "/"
+  },
+  {
+    "name": "site_preview",
+    "value": "logged_in",
+    "domain": "courses.example.com",
+    "path": "/"
+  },
+  {
+    "name": "sk_xxxxx_access",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+    "domain": "courses.example.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "sk_xxxxx_remember_me",
+    "value": "1",
+    "domain": "courses.example.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]
